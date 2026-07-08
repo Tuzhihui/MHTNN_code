@@ -1,2 +1,2 @@
 # MHTNN_code
-MATLAB code for Multistage Nonlocal Tensor Nuclear Norm (MHTNN) based hyperspectral image super-resolution
+MATLAB code for Multistage Nonlinear Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution
